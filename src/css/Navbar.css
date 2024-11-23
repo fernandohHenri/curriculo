@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #005599;
+    padding: 0.5rem 0;
+  }
+  
+  .navbar a {
+    color: #fff;
+    margin: 0 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
