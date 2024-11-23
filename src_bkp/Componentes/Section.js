@@ -1,7 +1,7 @@
 import React from "react";
-import "./Section.css";
+import "../css/Section.css";
 
-function Section({ id, title, content }) {
+const Section = ({ id,title,content }) => {
   return (
     <section id={id} className="section">
       <h2>{title}</h2>
